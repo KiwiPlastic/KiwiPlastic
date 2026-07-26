@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">I Make Things</h3>
+<h3 align="center">I Design and Make Awsome Things</h3>
 
 **27-7-26 This page is under construction**
 
