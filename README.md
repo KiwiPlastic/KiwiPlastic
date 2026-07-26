@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@KiwiPlasticAdventures" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kiwi plastic adventures" height="30" width="40" /></a>
+<a href="https://fb.com/richard.fred.1042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="richard.fred.1042" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Edy7qAxdAY/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Edy7qAxdAY/" height="30" width="40" /></a>
 </p>
 
