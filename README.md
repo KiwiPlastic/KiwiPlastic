@@ -26,6 +26,7 @@
   - Im avaliable for contract progects, feedback on your ideas, collaberation...
 
 ## 📜 Past-Projects
+  .
   - **CNC Machine**
 <img width="301" height="404" alt="CNC1" src="https://github.com/user-attachments/assets/a179f642-2bd2-462e-bd97-96e545b5bb7b" />
 <img width="301" height="416" alt="CNC2" src="https://github.com/user-attachments/assets/e48d3def-5adb-45d5-8202-73a05c726b06" />
@@ -43,10 +44,13 @@
 <img width="308" height="399" alt="IMG_5501" src="https://github.com/user-attachments/assets/3b671236-010f-4c28-bf1c-a071d3a4f699" />
 <img width="306" height="404" alt="IMG_5277" src="https://github.com/user-attachments/assets/7fc8e375-fd62-46dd-ad09-71e56867fdbb" />
 
+.
+  - **Irrigation Control**
 
-  - Irrigation Control
-  - Weather Stations
+.
+  - **Weather Stations**
 
+.
 ## 🐴 Interests
   - **Plastic Recycling**
     
