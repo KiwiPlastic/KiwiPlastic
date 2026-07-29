@@ -1,22 +1,30 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">I Design and Make Awsome Things</h3>
 
-**27-7-26 This page is under construction**
-
 ## Table of Contents
 
 - [Introduction](#Introduction)
-  - [What is this Project?](#what-is-this-project)
-  - [Table of Contents](#table-of-contents)
-  - [Best Profiles READMEs](#best-profiles-readmes)
-  - [Contribute](#contribute)
-  - [License](#license)
-
+  - [History](#History)
+  - [Interests](#Interests)
+  - [Automated Telescope](Telescope/blob/main/README.md)
+ 
+  - https://github.com/KiwiPlastic/Telescope/blob/main/README.md
+  - - Starlink Gen to Mode
+  - [Wall-E Robot](#hjjh)
+  - [BDX Mini Duck Robot] LCD Eyes add on
+  - Precious Plastic ZoE
+  - Mjolnir - Arduino Nano - High Performance Brushles Nerf Blaster. Team C.R.A.P. project
+  - RMB Frankenboard - ESP32C3 Extream Auto fire rate, Nerf Blaster
+  - SG-1 Mount & Turret - Facal recognistion - Modbile Nerf Turet
+  - 
 
 ## Introduction
 
 bla blar
 
+## History
+
+## Interests
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
