@@ -1,12 +1,10 @@
 <!-- **KiwiPlastic/KiwiPlastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h3 align="center">I Design and Make Awsome Things</h3>
+<h3 align="center">I Design and Make Things Awsome</h3>
 
 ## Table of Contents
 - 😎 [Introduction](#Introduction)
-- 📜 [Past Projects](#Past-Projects)
-- 🐴 [Interests](#Interests)
 - ⭐ Repository's
   - 🔭 [Automated Telescope](https://github.com/KiwiPlastic/Telescope) - Starlink Gen2 Mod
   - 🦿 [Wall-E Robot](https://github.com/KiwiPlastic/Wall-E_ESP32-C3_BLE_Gamepad_Ctrl) - ESP32C3 - BLE Game Controler
@@ -15,7 +13,9 @@
   - ⚒️ [RMB Frankenboard](https://github.com/KiwiPlastic/RMB_Frankenboard) - ESP32C3 Extream Auto fire rate, Nerf Blaster
   - ⚙️ [SG-1 Mount & Turret](https://github.com/KiwiPlastic/SG-1_Mount-Turret) - Facal recognistion - Modbile Nerf Turet
   - 🔨 [Mjolnir](https://github.com/KiwiPlastic/Mjolnir)- Arduino Nano - High Performance Brushles Nerf Blaster. Team C.R.A.P. project
-
+- 📜 [Past_Projects](#Past_Projects)
+- 🐴 [Interests](#Interests)
+- 
 ## 😎 Introduction
 
   - I am a Electronics Design Enginer.
@@ -25,7 +25,7 @@
   - Arduion/ESP32/RaspberryPi are favoured products
   - Im avaliable for contract progects, feedback on your ideas, collaberation...
 
-## 📜 Past-Projects
+## 📜 Past_Projects
   .
   - **CNC Machine**
 <img width="301" height="404" alt="CNC1" src="https://github.com/user-attachments/assets/a179f642-2bd2-462e-bd97-96e545b5bb7b" />
