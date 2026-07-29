@@ -4,12 +4,9 @@
 ## Table of Contents
 
 - [Introduction](#Introduction)
-  - [History](#History)
-  - [Interests](#Interests)
-  - [Automated Telescope](Telescope/blob/main/README.md)
- 
-  - https://github.com/KiwiPlastic/Telescope/blob/main/README.md
-  - - Starlink Gen to Mode
+- [History](#History)
+- [Interests](#Interests)
+  - [Automated Telescope](https://github.com/KiwiPlastic/Telescope) Starlink Gen to Mode
   - [Wall-E Robot](#hjjh)
   - [BDX Mini Duck Robot] LCD Eyes add on
   - Precious Plastic ZoE
