@@ -6,13 +6,14 @@
 - [Introduction](#Introduction)
 - [History](#History)
 - [Interests](#Interests)
-  - [Automated Telescope](https://github.com/KiwiPlastic/Telescope) Starlink Gen to Mode
-  - [Wall-E Robot](#hjjh)
-  - [BDX Mini Duck Robot] LCD Eyes add on
-  - Precious Plastic ZoE
-  - Mjolnir - Arduino Nano - High Performance Brushles Nerf Blaster. Team C.R.A.P. project
-  - RMB Frankenboard - ESP32C3 Extream Auto fire rate, Nerf Blaster
-  - SG-1 Mount & Turret - Facal recognistion - Modbile Nerf Turet
+- Repository's
+  - [Automated Telescope](https://github.com/KiwiPlastic/Telescope) - Starlink Gen2 Mode
+  - [Wall-E Robot](https://github.com/KiwiPlastic/Wall-E_ESP32-C3_BLE_Gamepad_Ctrl)
+  - [BDX Mini Duck Robot](https://github.com/KiwiPlastic/BDX_Mini_V2_LCD-Eyes) - LCD Eyes add on
+  - [Precious Plastic ZoE](https://github.com/KiwiPlastic/PP-ZoE-Shredder-Extractor-PID)
+  - [Mjolnir](https://github.com/KiwiPlastic/Mjolnir)- Arduino Nano - High Performance Brushles Nerf Blaster. Team C.R.A.P. project
+  - [RMB Frankenboard](https://github.com/KiwiPlastic/RMB_Frankenboard) - ESP32C3 Extream Auto fire rate, Nerf Blaster
+  - [SG-1 Mount & Turret](https://github.com/KiwiPlastic/SG-1_Mount-Turret) - Facal recognistion - Modbile Nerf Turet
   - 
 
 ## Introduction
