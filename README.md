@@ -29,6 +29,12 @@
   - CNC Machine
   - Solar Power and Off Grid Infilstructure
   - Rocky (Rocking Horse)
+<img width="298" height="400" alt="IMG_E0055" src="https://github.com/user-attachments/assets/05f9b4b2-1fb8-425c-9280-60a78caec903" />
+<img width="301" height="404" alt="IMG_0047" src="https://github.com/user-attachments/assets/db90b9b9-455f-49d2-823a-2a81d4d1c11f" />
+<img width="308" height="399" alt="IMG_5501" src="https://github.com/user-attachments/assets/3b671236-010f-4c28-bf1c-a071d3a4f699" />
+<img width="306" height="404" alt="IMG_5277" src="https://github.com/user-attachments/assets/7fc8e375-fd62-46dd-ad09-71e56867fdbb" />
+<img width="306" height="395" alt="IMG_0052" src="https://github.com/user-attachments/assets/6ab00da4-2800-4406-bd80-7857d486dccf" />
+
   - Irrigation Control
   - Weather Stations
 
