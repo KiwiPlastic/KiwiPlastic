@@ -12,12 +12,18 @@
   - 🦿 [Wall-E Robot](https://github.com/KiwiPlastic/Wall-E_ESP32-C3_BLE_Gamepad_Ctrl) - ESP32C3 - BLE Game Controler
   - 🪿 [BDX Mini Duck Robot](https://github.com/KiwiPlastic/BDX_Mini_V2_LCD-Eyes) - RPi0 and ESP32 - LCD Eyes add on
   - 🌈 [Precious Plastic ZoE](https://github.com/KiwiPlastic/PP-ZoE-Shredder-Extractor-PID) - Shredder/Extruder - Plastic Recycling
-  - 🔨 [Mjolnir](https://github.com/KiwiPlastic/Mjolnir)- Arduino Nano - High Performance Brushles Nerf Blaster. Team C.R.A.P. project
   - ⚒️ [RMB Frankenboard](https://github.com/KiwiPlastic/RMB_Frankenboard) - ESP32C3 Extream Auto fire rate, Nerf Blaster
   - ⚙️ [SG-1 Mount & Turret](https://github.com/KiwiPlastic/SG-1_Mount-Turret) - Facal recognistion - Modbile Nerf Turet
+  - 🔨 [Mjolnir](https://github.com/KiwiPlastic/Mjolnir)- Arduino Nano - High Performance Brushles Nerf Blaster. Team C.R.A.P. project
 
 ## 😎 Introduction
-A Short Story about me...
+
+  - I am a Electronics Design Enginer.
+  - An open mind with Imagination, lets me make creative new things, or mods (upgrades) to existing things.
+  - Alot of experiance with Recearch (University), Measurment, Datalogging and Control.
+  - I can take an idea and make electronics (PCB's) and 3D prints to make that idea work. Mjolnir is an example of this.
+  - Arduion/ESP32/RaspberryPi are favoured products
+  - Im avaliable for contract progects, feedback on your ideas, collaberation...
 
 ## 📜 Past-Projects
   - CNC Machine
@@ -27,28 +33,29 @@ A Short Story about me...
   - Weather Stations
 
 ## 🐴 Interests
-  - Plastic Recycling
+  - **Plastic Recycling**
     
     - So many opertunites for new re-use products made from plastic milk bottles and ther tops (HDPE)
     - After learning that I could take milk bottles and melt them in a toasted sandwhich maker, put the melt in a mould and make things...
     - Those things can be shaped with wood working tools.
     - What a wasted product. It can be reused and reshaped after first use in to outside products.
     - **Currently experimenting with HDPE (milk bottle tops) as re-use plastic Horse shoes**
+    - 🌈 [Plastic Recycling Machine ZoE](https://github.com/KiwiPlastic/PP-ZoE-Shredder-Extractor-PID)
     
-  - Horses
+  - **Horses**
 
     - Training
     - Connecting
     - Improving
   
-  - Off Grid Living
+  - **Off Grid Living**
 
     - Solar and Hydro power generation
     - Reuse/recycle as much as posible
     - Small foot print living
     - BIO Gas/Use Oil convertion 
     
-  - Yacht Racing
+  - **Yacht Racing**
 
     - Its technical on the water
 
