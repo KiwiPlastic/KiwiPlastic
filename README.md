@@ -27,10 +27,30 @@ A Short Story about me...
   - Weather Stations
 
 ## 🐴 Interests
-  - Horses - Training, Connecting, Improving  
-  - Plastic Recycling - So many opertunites for new re use products (HDPE)
-  - Off Grid Living - Reuse, small foot print
-  - Yacht Racing - Its technical on the water
+  - Plastic Recycling
+    
+    - So many opertunites for new re-use products made from plastic milk bottles and ther tops (HDPE)
+    - After learning that I could take milk bottles and melt them in a toasted sandwhich maker, put the melt in a mould and make things...
+    - Those things can be shaped with wood working tools.
+    - What a wasted product. It can be reused and reshaped after first use in to outside products.
+    - **Currently experimenting with HDPE (milk bottle tops) as re-use plastic Horse shoes**
+    
+  - Horses
+
+    - Training
+    - Connecting
+    - Improving
+  
+  - Off Grid Living
+
+    - Solar and Hydro power generation
+    - Reuse/recycle as much as posible
+    - Small foot print living
+    - BIO Gas/Use Oil convertion 
+    
+  - Yacht Racing
+
+    - Its technical on the water
 
 <!--This is the bottom of the page. next is tags and icons-->
 <h3 align="left">Connect with me:</h3>
