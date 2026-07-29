@@ -26,14 +26,23 @@
   - Im avaliable for contract progects, feedback on your ideas, collaberation...
 
 ## 📜 Past-Projects
-  - CNC Machine
-  - Solar Power and Off Grid Infilstructure
-  - Rocky (Rocking Horse)
+  - **CNC Machine**
+<img width="301" height="404" alt="CNC1" src="https://github.com/user-attachments/assets/a179f642-2bd2-462e-bd97-96e545b5bb7b" />
+<img width="301" height="416" alt="CNC2" src="https://github.com/user-attachments/assets/e48d3def-5adb-45d5-8202-73a05c726b06" />
+<img width="301" height="398" alt="CNC3" src="https://github.com/user-attachments/assets/fe4ebb70-73eb-4b85-a0b8-022c22cdf2a0" />
+
+.
+  - **Solar Power and Off Grid Infilstructure**
+  <img width="304" height="412" alt="Solar" src="https://github.com/user-attachments/assets/fc301e3e-86f7-404d-8f90-5fcc2b472883" />
+
+.
+  - **Rocky**
 <img width="298" height="400" alt="IMG_E0055" src="https://github.com/user-attachments/assets/05f9b4b2-1fb8-425c-9280-60a78caec903" />
 <img width="301" height="404" alt="IMG_0047" src="https://github.com/user-attachments/assets/db90b9b9-455f-49d2-823a-2a81d4d1c11f" />
+<img width="306" height="395" alt="IMG_0052" src="https://github.com/user-attachments/assets/6ab00da4-2800-4406-bd80-7857d486dccf" />
 <img width="308" height="399" alt="IMG_5501" src="https://github.com/user-attachments/assets/3b671236-010f-4c28-bf1c-a071d3a4f699" />
 <img width="306" height="404" alt="IMG_5277" src="https://github.com/user-attachments/assets/7fc8e375-fd62-46dd-ad09-71e56867fdbb" />
-<img width="306" height="395" alt="IMG_0052" src="https://github.com/user-attachments/assets/6ab00da4-2800-4406-bd80-7857d486dccf" />
+
 
   - Irrigation Control
   - Weather Stations
