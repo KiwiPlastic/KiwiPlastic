@@ -45,10 +45,14 @@
 <img width="306" height="404" alt="IMG_5277" src="https://github.com/user-attachments/assets/7fc8e375-fd62-46dd-ad09-71e56867fdbb" />
 
 .
-  - **Irrigation Control**
+  - **Automated Road Signs**
+<img width="449" height="402" alt="Sign 4" src="https://github.com/user-attachments/assets/d891a610-1bca-4bca-89da-7a2f176b0eea" />
+<img width="303" height="402" alt="Sign 3" src="https://github.com/user-attachments/assets/da104ae6-a933-4261-bd72-80f53a91cffc" />
+
 
 .
-  - **Weather Stations**
+  - **Irrigation Control**
+
 
 .
 ## 🐴 Interests
