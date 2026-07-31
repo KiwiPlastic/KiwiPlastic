@@ -1,4 +1,5 @@
-<!-- **KiwiPlastic/KiwiPlastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **KiwiPlastic/KiwiPlastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PICs size 300x400 -->
 
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">I Design and Make Things Awsome</h3>
