@@ -53,7 +53,11 @@ PICs size 300x400 -->
 
 .
   - **Irrigation Control**
-
+<img width="295" height="208" alt="image" src="https://github.com/user-attachments/assets/f261d793-804c-4cb8-9c4e-0fb65c14c154" />
+<img width="408" height="303" alt="image" src="https://github.com/user-attachments/assets/c4e15df9-9b22-46ec-b9be-a11d43ce90df" />
+<img width="315" height="208" alt="image" src="https://github.com/user-attachments/assets/33ba61b6-90a3-4cb0-9765-0ccd1b5a73b8" />
+<img width="391" height="300" alt="image" src="https://github.com/user-attachments/assets/85ac75a9-ee74-418d-a929-10669707ede3" />
+<img width="600" height="370" alt="image" src="https://github.com/user-attachments/assets/0d06e5b2-3f49-4aab-b83b-59b41c8ff14d" />
 
 .
 ## 🐴 Interests
